@@ -15,4 +15,4 @@ Our aim is to predict whether an individual will earn more than $50K or not.
 
 ## Neural Network architecure
 
-![alt text](NNaarch.png "NN Architecture")
+![alt text](Data-Mining-Using-NN/NNarch.png "NN Architecture")
